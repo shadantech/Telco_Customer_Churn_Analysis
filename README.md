@@ -24,7 +24,7 @@ The business was experiencing significant customer churn, impacting revenue and 
 Analyze customer demographics, services, and contract details to uncover churn patterns and actionable insights.
 
 ### **A — Action**
-- Cleaned and preprocessed the dataset  
+- Cleaned and preprocessed the dataset using Power Query
 - Created DAX measures (e.g., Churn Rate, Retained Customers, Total Revenue, Tenure Groups)   
 - Built an interactive Power BI dashboard with KPIs, filters, and business-focused visuals
 - Implemented a Reset Filters button for advanced interactivity  
@@ -37,11 +37,11 @@ Analyze customer demographics, services, and contract details to uncover churn p
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboards
 ### 1️⃣ Churn Analysis
 Identifying churn drivers and high-risk customer segments at a glance.
  
-![Customer Churn Analysis](Telco_Customer_Churn_Analysis.png)
+![Churn Analysis](Telco_Customer_Churn_Analysis.png)
 
 ### 2️⃣ Customer Details
 Drilling down into individual customers to support targeted retention actions.
