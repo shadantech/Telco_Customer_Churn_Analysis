@@ -80,9 +80,9 @@ This project shows how Power BI can be used to turn raw customer data into clear
 **Shadan Tech**   
 _Data Analyst_
 
-🔗 [LinkedIn Profile](http://www.linkedin.com/in/shadantech)  
-🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadan.sarfaraz/vizzes)
-🔗 [Newsletter](https://shadantech.substack.com/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shadansarfaraz1)  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadansarfaraz/vizzes)
+🔗 [Newsletter](https://shadansarfaraz.substack.com/)
 
 ---
 
